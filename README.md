@@ -23,5 +23,3 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/CamiloDiNardo"><img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/linkedin.png"></a>
 
-### Serpiente comiendo mi gráfico de contribución
-![gif de serpiente]
