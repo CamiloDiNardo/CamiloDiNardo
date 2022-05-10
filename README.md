@@ -15,4 +15,4 @@
 ## Contacto
 
 <a target="_blank" href="https://www.linkedin.com/in/CamiloDiNardo"><img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/linkedin.png"></a>
-<a target="_blank" href="camilodinardo@hotmail.com"><img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/hotmail.png"></a>
+
