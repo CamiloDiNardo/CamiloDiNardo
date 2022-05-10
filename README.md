@@ -26,7 +26,7 @@
   <icon 🚀/>
 </h1>
 
-<p>
+<p align="center">
 <img width="48" alt="HTML" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/html5.png">
 <img width="48" alt="CSS" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/css3.png"> 
 <img width="48" alt="JS" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/js.png"> 
