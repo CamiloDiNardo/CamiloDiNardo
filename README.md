@@ -21,7 +21,7 @@
 <img alt="Camilo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CamiloDiNardo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
   
 <h1 align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=🚀+&nbsp;+&nbsp;+&nbsp;+&nbsp;+&nbsp;+&nbsp;+&nbsp;+Habilidades+&nbsp;+&nbsp;+&nbsp;+&nbsp;+&nbsp;+🚀"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=🚀&nbsp;+&nbsp;+Habilidades+&nbsp;+&nbsp;🚀"/>
 </h1>
 
 <p>
