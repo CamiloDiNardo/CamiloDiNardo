@@ -5,10 +5,10 @@
 ## Habilidades
 
 <p>
-<img width="48" src="hhttps:/raw.githubusercontent.com/CamiloDiNardo/CamiloDiNardo/main/img/html5.png"> 
-<img width="48" src="https://raw.githubusercontent.com/CamiloDiNardo/CamiloDiNardo/main/img/css3.png"> 
-<img width="48" src="https://raw.githubusercontent.com/CamiloDiNardo/CamiloDiNardo/main/img/js.png">
-<img width="48" src="https://raw.githubusercontent.com/CamiloDiNardo/CamiloDiNardo/main/img/react.png">
-<img width="48" src="https://raw.githubusercontent.com/CamiloDiNardo/CamiloDiNardo/main/img/git.png">
-</p>
 <img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/html5.png">
+<img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/css3.png"> 
+<img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/js.png"> 
+<img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/react.png">
+<img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/git.png">
+</p>
+
