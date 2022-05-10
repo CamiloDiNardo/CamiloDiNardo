@@ -37,10 +37,9 @@
 
 <h1 align="center">
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/>
-<img src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines="Contact"' />
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"         
-
-
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Contacto"/>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/>
+</h1>
 
 <a target="_blank" href="https://www.linkedin.com/in/CamiloDiNardo"><img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/linkedin.png"></a>
 
