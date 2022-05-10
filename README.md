@@ -10,6 +10,12 @@
 </h2>
 
 
+<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif"/>
+<h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=¡I'm+Camilo+Di+Nardo!"/>
+<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif"/>
+</h1>
+
 <p align="center">
 <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Camilo Github Stats" src="https://github-readme-stats.vercel.app/api?username=CamiloDiNardo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a>
 </p>
