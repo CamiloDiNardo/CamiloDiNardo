@@ -12,6 +12,12 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=🚀+Habilidades+🚀"/>
 </h1>
 
+<p align="center">
+    <a href="https://github.com/uchiha-suraj/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uchiha-suraj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width = "90%" />
+    </a>
+  </p>
+  
 <p>
 <img width="48" alt="HTML" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/html5.png">
 <img width="48" alt="CSS" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/css3.png"> 
