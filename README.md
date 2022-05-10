@@ -6,7 +6,7 @@
 <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Camilo Github Stats" src="https://github-readme-stats.vercel.app/api?username=CamiloDiNardo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a>
 </p>
   
-  <p align="center">
+ <p align="center">
 <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Camilo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloDiNardo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a>
 </p>
     
@@ -36,9 +36,9 @@
 </p>
 
 <h1 align="center">
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"/>
 <img src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Contact"/>
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"/>
 </h1>
 
 
