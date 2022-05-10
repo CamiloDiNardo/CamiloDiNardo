@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/uchiha-suraj/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloDiNardoj&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width = "90%" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloDiNardo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width = "90%" />
     </a>
   </p>
   
