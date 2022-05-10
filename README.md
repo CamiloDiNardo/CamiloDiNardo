@@ -1,7 +1,6 @@
 <h1 align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&duration=5500&color=82F7D3&center=true&vCenter=true&width=600&lines=I'm+Camilo+Di+Nardo"/>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Hola!+soy+Camilo!"/>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&duration=5500&color=82F7D3&center=true&vCenter=true&width=600&lines=I'm+Camilo+Di+Nardo"/>
+<img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" width="48px">
 </h1>
 
 <p align="center">
