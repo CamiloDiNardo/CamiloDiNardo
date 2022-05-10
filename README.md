@@ -5,12 +5,12 @@
 ![flyn gifth](https://user-images.githubusercontent.com/94394836/167641982-c3e4750f-6db4-4bca-8885-269fe6c7aa7a.gif)
 
 <p align="center">
-<a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Camilo Github Stats" src="https://github-readme stats.vercel.app/api?username=CamiloDiNardo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
-  </p>
+<a href="https://github.com/CamiloDiNardo/github-readme-stats"><img alt="Camilo Github Stats" src="https://github-readme stats.vercel.app/api?username=CamiloDiNardo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a>
+</p>
   
   <p align="center">
-    <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Camilo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloDiNardo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
-  </p>
+<a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Camilo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloDiNardo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a>
+</p>
     
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
