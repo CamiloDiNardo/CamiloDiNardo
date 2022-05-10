@@ -11,11 +11,12 @@
 ## Habilidades
 
 <p>
-<img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/html5.png">
-<img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/css3.png"> 
-<img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/js.png"> 
-<img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/react.png">
-<img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/git.png">
+<img width="48" alt="HTML" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/html5.png">
+<img width="48" alt="CSS" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/css3.png"> 
+<img width="48" alt="JS" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/js.png"> 
+<img width="48" alt="React" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/react.png">
+<img width="48" alt="Git" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/git.png">
+<img  alt="Canva" width="48px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
 </p>
 
 ## Contacto
