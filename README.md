@@ -12,7 +12,7 @@
     </a>
   </p>
   
-<img[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloDiNardo&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats) width = "90%"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloDiNardo&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats) 
 
 <h1 align="center">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=🚀+Habilidades+🚀"/>
