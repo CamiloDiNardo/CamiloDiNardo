@@ -8,12 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloDiNardo&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/CamiloDiNardo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="CamiloDiNardo" height="40" width="40" /></a>
-</p>
-
 ## Habilidades
 
 <p>
