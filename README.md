@@ -19,9 +19,9 @@
 <img  alt="Canva" width="48px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
 </p>
 
-## <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=📫+Contacto+📫"/>
-</h1>📫
+<h1 align="center">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=📫+Contacto+📫"/>
+</h1>
 
 <a target="_blank" href="https://www.linkedin.com/in/CamiloDiNardo"><img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/linkedin.png"></a>
 
