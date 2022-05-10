@@ -37,7 +37,7 @@
 
 <h1 align="center">
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Contacto"/>
+<img align="center" src="https://readmetypingsvg.herokuapp.comcolor=BB2538&size=22&center=true&vCenter=true&lines="Contacto"/>
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/>
 </h1>
 
