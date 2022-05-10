@@ -5,8 +5,8 @@
 ## Habilidades
 
 <p>
-<img width="48" src="hhttps://github.com/CamiloDiNardo/CamiloDiNardo/master/img/html5.png"> 
-<img width="48" src="https://raw.githubusercontent.com/CamiloDiNardo/CamiloDiNar/master/img/css3.png"> 
+<img width="48" src="hhttps:/raw.githubusercontent.com/CamiloDiNardo/CamiloDiNardo/master/img/html5.png"> 
+<img width="48" src="https://raw.githubusercontent.com/CamiloDiNardo/CamiloDiNardo/master/img/css3.png"> 
 <img width="48" src="https://raw.githubusercontent.com/CamiloDiNardo/CamiloDiNardo/master/img/js.png">
 <img width="48" src="https://raw.githubusercontent.com/CamiloDiNardo/CamiloDiNardo/master/img/react.png">
 <img width="48" src="https://raw.githubusercontent.com/CamiloDiNardo/CamiloDiNardo/master/img/git.png">
