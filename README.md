@@ -1,4 +1,5 @@
 <h1 align="center">
+<img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" width="48px">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Hola!+soy+Camilo!"/>
 <img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" width="48px">
 </h1>
