@@ -4,6 +4,11 @@
 <img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" width="48px">
 </h1>
 
+<h2> 
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=30&duration=5500&color=82F7D3&center=true&vCenter=true&width=600&lines=A+Front+End+web+Developer+from+Argentina/>
+</h2>
+
+
 <p align="center">
 <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Camilo Github Stats" src="https://github-readme-stats.vercel.app/api?username=CamiloDiNardo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a>
 </p>
