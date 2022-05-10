@@ -21,9 +21,9 @@
 <img alt="Camilo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CamiloDiNardo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
   
 <h1 align="center">
-  <icon 🚀/>
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="48">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Habilidades"/>
-  <icon 🚀/>
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="48">
 </h1>
 
 <p align="center">
