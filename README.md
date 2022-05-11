@@ -57,4 +57,9 @@
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/CamiloDiNardo"><img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/linkedin.png"></a></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NazarovAsadbek}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=70&section=footer"/>
