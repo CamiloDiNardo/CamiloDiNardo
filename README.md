@@ -58,7 +58,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/CamiloDiNardo"><img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/linkedin.png"></a></p>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Visitors+count"/>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CamiloDiNardo}/count.svg" /></p> 
 <br></div>
 
