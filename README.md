@@ -32,6 +32,7 @@
     
     - **Gym ✨**
 
+
 <p align="center">
 <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Camilo Github Stats" src="https://github-readme-stats.vercel.app/api?username=CamiloDiNardo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a>
 </p>
