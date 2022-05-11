@@ -23,9 +23,13 @@
 - 🌱 I’m currently learning **React.js and Redux.**
 
 -**Hobbies:**
+
     - **i like to watch series and movies👀.**
+    
     - **natural curiosity about which interest me 🔥.**
+    
     - **play videogames 😉.*
+    
     - **Gym✨**
 
 <p align="center">
