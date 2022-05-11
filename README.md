@@ -22,15 +22,15 @@
 
 - 🌱 I’m currently learning **React.js and Redux.**
 
--**Hobbies:**
+- 💞️Hobbies:
 
-    - i like to watch series and movies👀.
+    - **i like to watch series and movies 👀.**
     
-    - natural curiosity about which interest me 🔥.
+    - **natural curiosity about which interest me 🔥.**
     
-    - play videogames 😉.
+    - **play videogames 😉.**
     
-    - Gym✨
+    - **Gym ✨**
 
 <p align="center">
 <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Camilo Github Stats" src="https://github-readme-stats.vercel.app/api?username=CamiloDiNardo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%"/></a>
