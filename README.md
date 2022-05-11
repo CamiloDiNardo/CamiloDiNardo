@@ -10,9 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=22&duration=5500&color=82F7D3&center=true&vCenter=true&width=600&lines=+A+Front+End+web+Developer+from+Argentina"/>
 </h2>
 <h1 align="center">
-<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="48px" heigth="100px"/>
+<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="150px"/>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=About+me"/>
-<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="48px"heigth="100px"/>
+<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="150px"/>
 </h1>
 
 <p align="center">
