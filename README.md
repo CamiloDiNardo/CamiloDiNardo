@@ -11,7 +11,7 @@
 </h2>
 <h1 align="center">
 <img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="100px"/>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&width=600&lines=About+me"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&width=100&lines=About+me"/>
 <img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="100px"/>
 </h1>
 
