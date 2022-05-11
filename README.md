@@ -74,8 +74,6 @@
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/CamiloDiNardo"><img width="48" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/linkedin.png"></a>
-<a target="_blank" href="camilogastondinardo@hotmail.com"><img width="48">
-<img"https://user-images.githubusercontent.com/94394836/167758321-0ecbbc4a-8768-4413-a214-b5a5956d3fd2.jpg">
 </p>
 
 <div align="center">
