@@ -12,7 +12,7 @@
 <h1 align="center">
 <img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="200px"/>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=About+me"/>
-<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="150px"/>
+<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="200px"/>
 </h1>
 
 <p align="center">
