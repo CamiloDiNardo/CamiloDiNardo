@@ -53,7 +53,7 @@
   
 <h1 align="center">
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="48">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&lines=Languages+and+Tools"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&width=250&lines=Languages+and+Tools"/>
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="48">
 </h1>
 
