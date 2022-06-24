@@ -67,9 +67,9 @@
 </p>
 
 <h1 align="center">
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="100px"/>
 <img align="Center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&width=250&lines=Connect+with+me!"/>
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="100px />
 </h1>
 
 <p align="center">
