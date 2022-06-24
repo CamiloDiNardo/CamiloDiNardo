@@ -11,9 +11,9 @@
 </h2>
 
 <h1 align="center">
-<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="80px" height="80px"/>
+<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="90px" height="90px"/>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&width=150&lines=About+me"/>
-<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="80px" height="80px"/>
+<img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="90px" height="90px"/>
 </h1>
 
 - ⚡ self-taught student with a **passion for programming**
