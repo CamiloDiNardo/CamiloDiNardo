@@ -14,7 +14,6 @@
 <img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="90px" height="90px"/>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&width=150&lines=About+me"/>
 <img alt="gif" src="https://i.imgur.com/pkqEZMB.gif" width="90px" height="90px"/>
-<img alt="gif" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="90px"/>
 </h1>
 
 
@@ -66,6 +65,7 @@
 <img width="48" alt="React" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/react.png">
 <img width="48" alt="Git" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/git.png">
 <img  alt="Canva" width="48px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
+<img alt="Firebase" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 </p>
 
 <h1 align="center">
