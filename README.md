@@ -63,7 +63,7 @@
 <img width="48" alt="Css" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/css3.png"> 
 <img width="48" alt="Js" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/js.png"> 
 <img width="48" alt="React" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/react.png">
-<img width="48px" alt="Mui" src=https://mui.com/static/logo.png">
+<img width="48px" alt="Mui" src="https://mui.com/static/logo.png">
 <img alt="Firebase" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 <img width="48" alt="Git" src="https://raw.githubusercontent.com/neduardoaguirre/neduardoaguirre/master/img/git.png">
 
