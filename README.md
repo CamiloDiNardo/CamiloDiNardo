@@ -50,8 +50,12 @@
 </a></p>
   
 <a href="https://github.com/uchiha-suraj/github-readme-activity-graph">
-<img alt="Camilo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CamiloDiNardo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+<img alt="Camilo Activity Graph" src=""/></a>
   
+<p align="center">
+  <img title="Last 7 days" alt="Camilo monthly coding stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=CamiloDiNardo" />
+</p>
+
 <h1 align="center">
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="48">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&vCenter=true&width=300&lines=Languages+and+Tools"/>
