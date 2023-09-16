@@ -87,7 +87,7 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/CamiloDiNardo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stnguyen90" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/CamiloDiNardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stnguyen90" height="40" width="40" /></a>
 </p>
 
 <div align="center">
