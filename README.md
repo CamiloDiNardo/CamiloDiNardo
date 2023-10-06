@@ -72,10 +72,11 @@
 <img width="40" alt="Typescript" src="https://www.svgrepo.com/show/303600/typescript-logo.svg"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"/>
-<img width="48" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img width="48" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
-<img width="48" alt="Vite" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"/>
-<img width="48" alt="npm" src="https://w7.pngwing.com/pngs/828/432/png-transparent-npm-node-js-computer-icons-computer-software-installation-others-text-rectangle-logo.png"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/>
+<img width="40" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img width="40" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
+<img width="40" alt="Vite" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"/>
+<img width="40" alt="npm" src="https://w7.pngwing.com/pngs/828/432/png-transparent-npm-node-js-computer-icons-computer-software-installation-others-text-rectangle-logo.png"/>
 
 
 </p>
